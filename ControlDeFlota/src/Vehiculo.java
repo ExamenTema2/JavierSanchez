@@ -1,3 +1,4 @@
+// Autor: Javier Sánchez Muñoz.
 public class Vehiculo {
 	private String matricula;
 	private String fabricante;
