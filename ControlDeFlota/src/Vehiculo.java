@@ -1,3 +1,5 @@
+// Autor: Javier Sánchez Muñoz.
+// Descripción: vehículo perteneciente a una flota de vehiculos
 public class Vehiculo {
 	private String matricula;
 	private String fabricante;
